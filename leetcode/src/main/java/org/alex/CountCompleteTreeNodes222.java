@@ -1,3 +1,5 @@
+package org.alex;
+
 import commondatastructures.TreeNode;
 
 class CountCompleteTreeNodes222 {
